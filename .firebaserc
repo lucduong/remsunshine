@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "luc-profile-card"
-  }
+  },
+  "targets": {
+    "luc-profile-card": {
+      "hosting": {
+        "remsunshine": [
+          "public"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
