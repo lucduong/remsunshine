@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "remsunshine",
     "public": "public",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
